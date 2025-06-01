@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Allan Gutierrez Valerio
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
